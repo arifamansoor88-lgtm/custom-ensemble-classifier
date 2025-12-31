@@ -79,7 +79,7 @@ This ensemble outperformed each individual model.
 - Stratified 70/30 train-validation split
 - Accuracy used as the primary evaluation metric
 - Precision and recall examined per class to detect bias
-- Final test accuracy on held-out data: **~0.895**
+- Final test accuracy on held-out data: **~0.84**
 
 The model performs consistently across all three classes, with balanced precision and recall.
 
